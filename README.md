@@ -1,11 +1,7 @@
-First clone this repository.
+1) First clone this repository ($ git clone https://github.com/kabirbaidhya/react-todo-app.git)
 
-$ git clone https://github.com/kabirbaidhya/react-todo-app.git
+2) Install dependencies. Make sure you already have nodejs & npm installed in your system.
 
-Install dependencies. Make sure you already have nodejs & npm installed in your system.
+3) Run $ npm install # or yarn
 
-$ npm install # or yarn
-
-Run it
-
-$ npm start # or yarn start
+4) Run $ npm start # or yarn start
